@@ -69,8 +69,6 @@ Extend prompts for additional metrics and visualization.
 
 The prompts were executed successfully, generating Python code for API integration, comparison, and insights. The exercise demonstrated that structured, role-specific prompts improve the quality and usability of AI-generated code. Using multiple AI tools provides alternative approaches and insights for coding tasks.
 
-#Result:
-
 The designed prompts guided AI tools effectively to produce functional Python code and actionable analysis. The approach validated the importance of prompt design and persona pattern application in AI-assisted project coding.
 
 Deliverable:
@@ -81,5 +79,5 @@ AI-generated code and explanations.
 
 Reflection on prompt effectiveness and possible refinements.
 
-#Result: 
+Result: 
 The corresponding Prompt is executed successfully.
